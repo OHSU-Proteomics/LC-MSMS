@@ -53,17 +53,17 @@ _**Q Exactive Specifications:**_
 - **Max Resolving Power**: 240,000 @ m/z 200
 - **Max Scan Rate**: up to 18 Hz at resolution setting of 15,000 resolution @ m/z 200
 - **Mass Accuracy**:
-   - Internal: < 1 ppm RMS
-   - External: < 3 ppm RMS, under defined conditions
+  - Internal: < 1 ppm RMS
+  - External: < 3 ppm RMS, under defined conditions
 - **Dissociation**: In-Source CID, HCD
 - **Scan Functions**: FS, AIF, SIM, PRM, DIA, ddHCD
 - **Quad Isolation**: Step-less from full mass range down to 0.4 amu
 - **Polarity Switching**: One full cycle in < 1 sec
-   - one full scan positive mode and one full scan negative mode at resolution setting of 30,000
+  - one full scan positive mode and one full scan negative mode at resolution setting of 30,000
 - **Multiplexing**: Up to 10 precursors/scan
 - **Analog Inputs**:
-   - One (1) analog input (0 - 1 V)
-   - One (1) analog input (0 - 10 V)
+  - One (1) analog input (0 - 1 V)
+  - One (1) analog input (0 - 10 V)
 
 
 ***
@@ -74,31 +74,31 @@ _Slide 6_
 
 _**Orbitrap Fusion Tribrid Specifications:**_  
 - **Linear Ion Trap and Orbitrap Mass Range:**
-   - Standard – m/z 50–2,000,
-   - High Mass – m/z 200–4,000
+  - Standard – m/z 50–2,000,
+  - High Mass – m/z 200–4,000
 - **Orbitrap Extended Mass Range:**
-   - Up to m/z 6000 without precursor ion selection
+  - Up to m/z 6000 without precursor ion selection
 - **Orbitrap Resolution**: 15,000-450,000 (FWHM) at m/z 200
 - **Scan Rates**:
-   - Orbitrap MSn up to 20 Hz
-   - Ion trap MSn up to 20 Hz
+  - Orbitrap MSn up to 20 Hz
+  - Ion trap MSn up to 20 Hz
 - **Mass Accuracy**:
-   - < 3 ppm RMS using external calibration
-   - < 1 ppm RMS using internal calibration
+  - < 3 ppm RMS using external calibration
+  - < 1 ppm RMS using internal calibration
 - **MS/MS Sensitivity of Ion Trap**: 2 μL of a 50 fg/μL solution of reserpine (100 fg total) injected at a flow of 500 μL/min will produce a minimum signal-to-noise ratio of 100:1 for the transition of the isolated protonated molecular ions at m/z 609 to the largest two product ions, m/z 397 and m/z 448, when the mass spectrometer is operated at unit resolution in the full-scan MS/MS mode, m/z 165–615. The test requires **Dynamic Range > 5,000** within a single scan, guaranteeing specified mass accuracy
 - **MS Scan Power**: MSn, for n = 1 through 10
 - **Thermo Scientific™ EASY-ETD™ Ion Source**:
-   1. Generates fluoranthene anions for electron transfer dissociation (ETD)
-   2. Townsend discharge ionization is extremely stable and robust
-   3. Compact size, located entirely within the footprint of the instrument
-   4. Active reagent ion filtering using mass-resolving quadrupole
+  1. Generates fluoranthene anions for electron transfer dissociation (ETD)
+  2. Townsend discharge ionization is extremely stable and robust
+  3. Compact size, located entirely within the footprint of the instrument
+  4. Active reagent ion filtering using mass-resolving quadrupole
 - **Thermo Scientific™ EASY-IC™ Ion Source**:
-   1. Generates internal calibrant ions for real-time mass calibration on every spectrum
-   2. Provides <1 ppm RMS mass accuracy
+  1. Generates internal calibrant ions for real-time mass calibration on every spectrum
+  2. Provides <1 ppm RMS mass accuracy
 - **Synchronous Precursor Selection**: Up to 15 precursors per MS2 scan, for MS3 analysis only
 - **Multiplexing Using Ion-Routing Multipole**: Up to 10 precursors per scan using quadrupole mass filter
 - **Polarity Switching**: One full cycle in 1.1 sec
-   - one full scan in positive mode and one full scan in negative mode at resolution setting of 35,000
+  - one full scan in positive mode and one full scan in negative mode at resolution setting of 35,000
 
 ***
 
